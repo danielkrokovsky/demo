@@ -1,0 +1,5 @@
+services:
+  postgres:
+    image: bia
+    ports:
+      - "80:8080"
